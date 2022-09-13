@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LSSEgzO2nvfbpfc2HvmMvz6lwTaqYV+S4xwvdjZY++MmNaSfRrQ7vOGp7Mmc0WSBu5qWpGXrafUHGmwl6y+b6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\murvi\\source\\repos\\ConsoleApp6\\ConsoleApp6\\ConsoleApp6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\murvi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
